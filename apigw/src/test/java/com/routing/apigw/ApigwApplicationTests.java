@@ -1,4 +1,4 @@
-package com.test.apigw;
+package com.routing.apigw;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
